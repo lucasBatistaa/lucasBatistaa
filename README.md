@@ -1,14 +1,17 @@
 ## Olaa! Eu sou Lucas Batista!
-<p> 
-  Atualmente tenho 18 anos e estou fazendo Análise e Desenvolvimento de Sistemas - ADS, no Instituto Federal de Caraguatatuba - SP.<br>
-  Estou iniciando na carreira de Desenvolvedor Web, em busca de experiências e cada vez mais aprendizados.
-</p>
 
-<br>
-
-<a href="https://github.com/lucasBatistaa">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasBatistaa&theme=dark&hide_langs_below=1" />
-</a>
+<div align="center">
+  <p> 
+    Atualmente tenho 18 anos e estou fazendo Análise e Desenvolvimento de Sistemas - ADS, no Instituto Federal de Caraguatatuba - SP.<br>
+    Estou iniciando na carreira de Desenvolvedor Web, em busca de experiências e cada vez mais aprendizados.
+  </p>
+  
+  <br>
+  
+  <a href="https://github.com/lucasBatistaa">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasBatistaa&theme=dark&hide_langs_below=1" />
+  </a>
+</div>
 
 <div>
   <p>👨‍💻 Linguagens: </p>
@@ -21,7 +24,6 @@
   <a href="https://github.com/lucasBatistaa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40px"/></a>
 </div>
 
-<br>
 <br>
 
 <div>
