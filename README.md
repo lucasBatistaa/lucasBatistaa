@@ -1,10 +1,26 @@
-<div>
-  <a href="https://github.com/lucasBatistaa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasBatistaa&theme=dark&hide_langs_below=1" />
-  </a>
-</div>
+## Olaa! Eu sou Lucas Batista!
+<p> 
+  Atualmente tenho 18 anos e estou fazendo Análise e Desenvolvimento de Sistemas - ADS, no Instituto Federal de Caraguatatuba - SP.<br>
+  Estou iniciando na carreira de Desenvolvedor Web, em busca de experiências e cada vez mais aprendizados.
+</p>
 
-<div style="text-decoration: none"> 
+<br>
+
+<a href="https://github.com/lucasBatistaa">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasBatistaa&theme=dark&hide_langs_below=1" />
+</a>
+
+<div>
+  <p>👨‍💻 Linguagens: </p>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40px"/>
+  
+  <br>
   <br>
   <p align="left">
     💌 Minhas redes: ⤵️
@@ -29,7 +45,6 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
-  
 </div>
 
 ![snake animation](https://github.com/lucasBatistaa/lucasBatistaa/blob/output/github-contribution-grid-snake.svg)
