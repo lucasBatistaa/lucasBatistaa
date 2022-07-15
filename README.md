@@ -36,7 +36,7 @@
   </a>
 
   <a href="https://instagram.com/lucasbatista30_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&text-decoration=none">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&text-decoration=none&target=_blank">
   </a>
 
   <a href="https://www.linkedin.com/in/lucas-batista-tech/" target="_blank">
