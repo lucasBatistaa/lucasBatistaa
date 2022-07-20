@@ -42,10 +42,8 @@
   <a href="https://www.linkedin.com/in/lucas-batista-tech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
   </a>
-
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+  
+  <p>Email: contato.lucasbatista30@gmail.com
 
   ![snake animation](https://github.com/lucasBatistaa/lucasBatistaa/blob/output/github-contribution-grid-snake.svg)
 </div>
