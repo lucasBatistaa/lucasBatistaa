@@ -2,7 +2,7 @@
 
 <div align="center">
   <p> 
-    Atualmente tenho 19 anos. Sou estudante de Análise e Desenvolvimento de Sistemas - ADS, no Instituto Federal de Caraguatatuba - SP.<br>
+    Atualmente tenho 20 anos. Sou estudante de Análise e Desenvolvimento de Sistemas - ADS, no Instituto Federal de Caraguatatuba - SP.<br>
     Estou iniciando na carreira de Desenvolvedor Front-end Web com ReactJS, em busca de experiências e cada vez mais aprendizados. 
   </p>
   
