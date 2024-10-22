@@ -1,9 +1,9 @@
-## Olaa! Eu sou o Lucas!
+## Ola! Eu sou o Lucas!
 
 <div align="center">
   <p> 
-    Atualmente tenho 20 anos. Sou estudante de Análise e Desenvolvimento de Sistemas - ADS, no Instituto Federal de Caraguatatuba - SP.<br>
-    Estou iniciando na carreira de Desenvolvedor Front-end Web com ReactJS, em busca de experiências e cada vez mais aprendizados. 
+    Sou estudante de Análise e Desenvolvimento de Sistemas - ADS, no Instituto Federal de Caraguatatuba - SP.<br>
+    Estou iniciando na carreira de Desenvolvedor na stack de JavaScript/TypeScript, em busca de experiências e cada vez mais aprendizados. 
   </p>
   
   <br>
@@ -14,14 +14,14 @@
 </div>
 
 <div>
-  <p>👨‍💻 Linguagens: </p>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40px"/>
+  <p>👨‍💻 Skills: </p>
+
+  ![My Skills](https://skillicons.dev/icons?i=js)
+  ![My Skills](https://skillicons.dev/icons?i=ts)
+  ![My Skills](https://skillicons.dev/icons?i=react)
+  ![My Skills](https://skillicons.dev/icons?i=nextjs)
+  ![My Skills](https://skillicons.dev/icons?i=nodejs)
+  ![My Skills](https://skillicons.dev/icons?i=python)
 </div>
 
 <br>
