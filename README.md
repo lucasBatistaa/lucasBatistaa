@@ -2,8 +2,8 @@
 
 <div align="center">
   <p> 
-    Sou estudante de Análise e Desenvolvimento de Sistemas - ADS, no Instituto Federal de Caraguatatuba - SP.<br>
-    Estou iniciando na carreira de Desenvolvedor na stack de JavaScript/TypeScript, em busca de experiências e cada vez mais aprendizados. 
+    Graduado em Análise e Desenvolvimento de Sistemas - ADS, no Instituto Federal de Caraguatatuba - SP.<br>
+    Estou iniciando na carreira de Desenvolvedor Front-End na stack de JavaScript/TypeScript, em busca de experiências e cada vez mais aprendizados. 
   </p>
   
   <br>
